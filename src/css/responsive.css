@@ -6,7 +6,7 @@
 
 }
 
-@media(max-width:620px) {
+@media(max-width:768px) {
 
     .header h1 {
         margin: 0 40px 0 40px;
@@ -20,7 +20,9 @@
         width: 100px;
         
     }
-    
+    .review-usuarios{
+        margin-top: 30px;
+    }
 
 }
 
